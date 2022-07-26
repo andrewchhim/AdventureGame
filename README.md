@@ -1,2 +1,2 @@
 # Adventure Game
-Java text based adventure decision game.
+Text-based decision game created using java.
