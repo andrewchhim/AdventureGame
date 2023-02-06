@@ -144,7 +144,7 @@ public class Game {
         }
 
         System.out.println("###################");
-        System.out.println("Thanks for playing!");
+        System.out.println("Thanks for playing, try again!");
         System.out.println("###################");
 
     }
